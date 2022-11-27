@@ -1,0 +1,13 @@
+git remote -v
+git checkout master
+git fetch origin
+git merge origin/master
+git pull
+git push orign master
+
+git remote add upstream
+git remote remove
+
+git checkout -b branch-name
+
+git branch
